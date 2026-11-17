@@ -5,11 +5,12 @@ Apple Developer
 Apple Discussions
 Archive.org
 Bandcamp
-CGTrader
 Championat
 Chatujme.cz
 Codolio
+Cplusplus
 Discord.bio
+Eintracht Frankfurt Forum
 GaiaOnline
 GeeksforGeeks
 Giphy
@@ -20,7 +21,6 @@ Hubski
 Instapaper
 LibraryThing
 Linktree
-Minecraft
 ObservableHQ
 Odysee
 PCGamer
