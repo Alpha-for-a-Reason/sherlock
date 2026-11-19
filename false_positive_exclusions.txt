@@ -3,7 +3,6 @@ Airliners
 Apple Developer
 Apple Discussions
 Archive.org
-Blogger
 Chatujme.cz
 Codolio
 Discord.bio
@@ -14,9 +13,12 @@ Hashnode
 Houzz
 Hubski
 Instapaper
+LibraryThing
 Linktree
+Minecraft
 ObservableHQ
 Odysee
+OurDJTalk
 PCGamer
 Pornhub
 Rarible
@@ -37,10 +39,7 @@ authorSTREAM
 dailykos
 fixya
 hunting
-igromania
 interpals
 mercadolivre
-opennet
-phpRU
 social.tchncs.de
 xHamster
