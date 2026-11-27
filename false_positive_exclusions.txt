@@ -1,7 +1,10 @@
 Airliners
+Anilist
 Apple Developer
 Apple Discussions
 Archive.org
+Blogger
+Carbonmade
 Chatujme.cz
 Codolio
 DeviantArt
@@ -13,9 +16,8 @@ Hashnode
 Hubski
 Instapaper
 Linktree
-LushStories
 ObservableHQ
-Odysee
+OurDJTalk
 PCGamer
 Rarible
 Realmeye
@@ -27,6 +29,7 @@ Shelf
 SlideShare
 Splice
 Spotify
+Trakt
 TryHackMe
 Velomania
 Vero
